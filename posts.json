@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "my post",
+    "content": "this is my post",
+    "author": "Anonymous",
+    "category": "Food",
+    "created": "2026-04-07T15:25:24.169870",
+    "created_display": "07 Apr 2026",
+    "likes": 1,
+    "comments": []
+  },
+  {
+    "id": 2,
+    "title": "my tech",
+    "content": "this is technological post",
+    "author": "Anonymous",
+    "category": "Technology",
+    "created": "2026-04-07T15:27:15.904278",
+    "created_display": "07 Apr 2026",
+    "likes": 0,
+    "comments": [
+      {
+        "author": "ghost",
+        "text": "this is ghost",
+        "date": "07 Apr 2026"
+      }
+    ]
+  }
+]
